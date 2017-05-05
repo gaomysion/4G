@@ -1,0 +1,5 @@
+com\asiainfo\kafkasink\HashPartitioner.class
+com\asiainfo\kafkasink\XiAn4GMessagePreprocessor.class
+com\asiainfo\kafkasink\KafkaSink.class
+com\asiainfo\kafkasink\MessagePreprocessor.class
+com\asiainfo\kafkasink\Constants.class
